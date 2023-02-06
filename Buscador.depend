@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1598300052 source:k:\documentos\buscador\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1596408866 k:\documentos\buscador\resource.h
+
+1598838713 source:k:\documentos\buscador\main.cpp
+	<windows.h>
+	<shellapi.h>
+	<commctrl.h>
+	<stdio.h>
+	<locale.h>
+	<malloc.h>
+	<fileapi.h>
+	<ctype.h>
+	<string.h>
+	<stdbool.h>
+	"resource.h"
+	"backend.h"
+
+1598832896 k:\documentos\buscador\backend.h
+
+1596151024 source:k:\documentos\buscador-fonte\buscador\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1596151024 k:\documentos\buscador-fonte\buscador\resource.h
+
+1596215418 source:k:\documentos\buscador-fonte\buscador\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<locale.h>
+	<malloc.h>
+	<fileapi.h>
+	<ctype.h>
+	<string.h>
+	"resource.h"
+	"backend.h"
+
+1596215162 k:\documentos\buscador-fonte\buscador\backend.h
+
+1598300052 source:k:\documentos\buscador_e_verificador\buscador\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1596408866 k:\documentos\buscador_e_verificador\buscador\resource.h
+
+1599243259 source:k:\documentos\buscador_e_verificador\buscador\main.cpp
+	<windows.h>
+	<shellapi.h>
+	<commctrl.h>
+	<stdio.h>
+	<locale.h>
+	<malloc.h>
+	<fileapi.h>
+	<ctype.h>
+	<string.h>
+	<stdbool.h>
+	<shlobj.h>
+	"resource.h"
+	"backend.h"
+
+1599243100 k:\documentos\buscador_e_verificador\buscador\backend.h
+
